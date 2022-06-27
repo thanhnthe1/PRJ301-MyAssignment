@@ -6,7 +6,7 @@
 
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link href="schedule.css" rel="stylesheet" type="text/css"/>
+        <link href="css/schedule.css" rel="stylesheet" type="text/css"/>
         <title>View Schedule</title>
     </head>
 
@@ -78,32 +78,32 @@
                             <td><a href="">SWT301-</a><a class="label label-warning" <br> at DE-311 <br>(<font color="Green">attended</font>)<br><span class="label label-success">(7:30-9:00)</span><br></td>
                             <td><a href="">PRN211-</a><a class="label label-warning" <br> at DE-C301 <a> </a><br>(<font color="Green">attended</font>)<br><span class="label label-success">(7:30-9:00)</span><br></td>
                             <td><a href="">SWT301-</a><a class="label label-warning" <br> at DE-311 <a> </a><br>(<font color="Red">not yet</font>)<br><span class="label label-success">(7:30-9:00)</span><br></td>
-                                    <td>-</td>
                             <td>-</td>
                             <td>-</td>
                             <td>-</td>
-                                    </tr>
+                            <td>-</td>
+                        </tr>
                         <tr>
                             <td>Slot 2 </td>
                             <td><a href="">SWT301-</a><a class="label label-warning" <br> at DE-311 <br>(<font color="Green">attended</font>)<br><span class="label label-success">(9:10-10:40)</span><br></td>
                             <td><a href="">PRN211-</a><a class="label label-warning" <br> at DE-C301 <a> </a><br>(<font color="Green">attended</font>)<br><span class="label label-success">(9:10-10:40)</span><br></td>
                             <td><a href="">SWT301-</a><a class="label label-warning" <br> at DE-311 <a> </a><br>(<font color="Red">not yet</font>)<br><span class="label label-success">(9:10-10:40)</span><br></td>
-                                    <td>-</td>
                             <td>-</td>
                             <td>-</td>
                             <td>-</td>
-                                    </tr>
+                            <td>-</td>
+                        </tr>
                         <tr>
                             <td>Slot 3 </td>
                             <td><a href="">SWT301-</a><a class="label label-warning" <br> at DE-311 <br>(<font color="Green">attended</font>)<br><span class="label label-success">(10:50-12:20)</span><br></td>
                             <td><a href="">PRN211-</a><a class="label label-warning" <br> at DE-C301 <a> </a><br>(<font color="Green">attended</font>)<br><span class="label label-success">(10:50-12:20)</span><br></td>
-                            <td><a href="">SWT301-</a><a class="label label-warning" <br> at DE-311 <a> </a><br>(<font color="Red">not yet</font>)<br><span class="label label-success">(10:50-12:20)</span><br></td>
-                                    <td>-</td>
+                            <td><a href="">SWT301-</a><a class="label label-warning" <br> at DE-311 <a> </a><br>(<font color="Red">not yet</font>)<br><span class="label label-success">(10:50-12:20 )</span><br></td>
                             <td>-</td>
                             <td>-</td>
                             <td>-</td>
-                                    </tr>
-                                    <tr>
+                            <td>-</td>
+                        </tr>
+                        <tr>
                             
                             <td>Slot 4 </td>
                             <td>-</td>
