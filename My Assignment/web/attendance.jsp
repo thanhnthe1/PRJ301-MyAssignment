@@ -31,7 +31,7 @@
                 <tr>
                     <th scope="row">1</th>
                     <td><a href="">PRJ301</a></td>
-                    <td><a>HE1151617</a></td>
+                    <td><a>HE151617</a></td>
                     <td><a href="">Lê Việt Hoàng</a></td>
                     <td><img src="img/male.jpg" class="rounded" width="150" height="150" alt=""/></td>
                     <td><input type="radio" checked="checked" name="status1" value="absent" /> absent 
